@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Adidas API Test Automation Test Suite" duration-ms="2821" started-at="2018-02-23T20:37:03Z" finished-at="2018-02-23T20:37:06Z">
+    <groups>
+    </groups>
+    <test name="Adidas API Assignment" duration-ms="2821" started-at="2018-02-23T20:37:03Z" finished-at="2018-02-23T20:37:06Z">
+      <class name="com.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@3f3afe78]" name="setUp" is-config="true" duration-ms="12" started-at="2018-02-24T02:07:03Z" finished-at="2018-02-24T02:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="imageAccessibilityTest()[pri:0, instance:com.qa.tests.HomePageTest@3f3afe78]" name="imageAccessibilityTest" duration-ms="2470" started-at="2018-02-24T02:07:03Z" finished-at="2018-02-24T02:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageAccessibilityTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@3f3afe78]" name="setUp" is-config="true" duration-ms="0" started-at="2018-02-24T02:07:05Z" finished-at="2018-02-24T02:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="landingPathApiTest()[pri:0, instance:com.qa.tests.HomePageTest@3f3afe78]" name="landingPathApiTest" duration-ms="157" started-at="2018-02-24T02:07:05Z" finished-at="2018-02-24T02:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPathApiTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@3f3afe78]" name="setUp" is-config="true" duration-ms="1" started-at="2018-02-24T02:07:05Z" finished-at="2018-02-24T02:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyResponseTime()[pri:0, instance:com.qa.tests.HomePageTest@3f3afe78]" name="verifyResponseTime" duration-ms="155" started-at="2018-02-24T02:07:05Z" finished-at="2018-02-24T02:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponseTime -->
+      </class> <!-- com.qa.tests.HomePageTest -->
+    </test> <!-- Adidas API Assignment -->
+  </suite> <!-- Adidas API Test Automation Test Suite -->
+</testng-results>
